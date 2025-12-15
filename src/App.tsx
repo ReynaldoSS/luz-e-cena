@@ -1,7 +1,13 @@
+import Banner from "./components/Banner";
+import Link from "./components/Link";
+
 function App() {
 
   return (
-    <h1>Olá mundo</h1>
+    <>
+    <Banner src="./src/assets/Images/BannerDesktop.png" alt="Banner principal do site"/>
+    <Link href="/" target="_blank">Link</Link>
+    </>
   )
 }
 

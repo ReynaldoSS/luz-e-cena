@@ -1,0 +1,20 @@
+.titulosContainer {
+    margin-left: 300px;
+}
+.primaryText {
+    color: var(--branco);
+    font-family: var(--fonte-titulo);
+    font-size: 48px;
+    width: 300px;
+    margin-top: -353px;
+    line-height: 50px;
+}
+
+.secondaryText {
+    color: var(--azul);
+    font-family: var(--fonte-titulo);
+    font-size: 48px;
+    width: 310px;
+    margin-top: -30px;
+    line-height: 50px;
+}
